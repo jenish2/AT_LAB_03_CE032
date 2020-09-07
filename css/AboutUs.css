@@ -1,0 +1,33 @@
+footer {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: slategray;
+    width: auto;
+    bottom: 0px;
+}
+
+header {
+    height: 100px;
+    background: #333545;
+}
+
+#NameOfCompany {
+    font-size: x-large;
+    color: white;
+}
+
+#secondary-nav {
+    background: #1f2533;
+    color: white;
+}
+
+#primary-nav {
+    background: #333545;
+    color: white;
+}
+
+.jumbotron {
+    margin: 300px;
+}
