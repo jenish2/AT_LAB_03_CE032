@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #333545;
+}
+
+#NameOfCompany {
+    font-size: x-large;
+    color: white;
+}
+
+#secondary-nav {
+    background: #1f2533;
+    color: white;
+}
+
+#primary-nav {
+    background: #333545;
+    color: white;
+}
+
+#slider {
+    margin: 1vh;
+    width: auto;
+    height: 320px;
+    overflow: hidden;
+    position: relative;
+    background-color: transparent;
+}
+
+.page-wrapper,
+.content-wrapper {
+    background: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.content-wrapper {
+    margin: 10px auto;
+    padding: 25px;
+}
+
+.head-content-container {
+    display: inline-block;
+}
+
+.head-title {
+    display: inline-block;
+    margin: auto;
+}
+
+.head-body {
+    display: inline-block;
+    margin-block: 10px;
+}
